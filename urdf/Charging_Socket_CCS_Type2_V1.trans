@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<robot name="Charging_Socket_CCS_Type2_V1" xmlns:xacro="http://www.ros.org/wiki/xacro" >
+
+</robot>
